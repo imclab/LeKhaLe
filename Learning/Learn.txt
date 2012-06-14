@@ -1,0 +1,7 @@
+Android Game Prototype - Girgit Studios
+--
+
+1. New keystore key registration
+keytool -genkey -v -keystore leKhaLe.keystore -alias aliasname -keyalg RSA -validity 999999
+
+2. 

@@ -1,0 +1,21 @@
+Android Game Prototype - Girgit Studios
+--
+
+. Play animations using sprite sheet. 
+. Perfect Collisions. -- Done
+. Create game levels.
+. Play sounds.
+. Proper Gameplay with objects falling within a gap of 1 sec. -- Done
+. Find solution for playing starting animation. 
+. move player right left. [Acclerometer][Hardware Issues]
+. Test project on ipad & Mac. [Hardware Issues]
+. Scoring System - Done
+. Timer -- Done
+. Game Logic -- Done
+
+Game Mechanics
+Time            Time Interval between Food spwaning
+. 0 - 10 sec -> 1sec - 0/120 sec
+. 10 - 20 -> 1  - 10/120
+. 20 - 30 -> 1 sec - 20/120
+. 110 - 120 -> 1 sec - 110/120 sec
